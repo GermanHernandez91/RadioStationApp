@@ -90,5 +90,11 @@ flutter pub run build_runner build --delete-conflicting-outputs
 ✅ Uses `Provider` for DI and state management  
 ✅ Uses `Floor` for reactive local storage
 
+
+https://github.com/user-attachments/assets/577141e8-66cb-410c-ae4d-8219856adbae
+
+
+
+
 ---
 
