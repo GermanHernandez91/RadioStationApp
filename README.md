@@ -34,7 +34,7 @@ Built with 💙 using **MVVM architecture**, **Provider**, **Floor (SQLite)**, a
 
    ```bash
    git clone https://github.com/GermanHernandez91/RadioStationApp.git
-   cd radio-stations-app
+   cd RadioStationApp
    ```
 
 2. **Install dependencies**
