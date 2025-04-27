@@ -33,7 +33,7 @@ Built with 💙 using **MVVM architecture**, **Provider**, **Floor (SQLite)**, a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/radio-stations-app.git
+   git clone https://github.com/GermanHernandez91/RadioStationApp.git
    cd radio-stations-app
    ```
 
